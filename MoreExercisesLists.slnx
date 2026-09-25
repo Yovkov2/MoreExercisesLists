@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="CarRace/CarRace.csproj" Id="91799fef-8f87-41ed-ba46-649ed1b09e13" />
+  <Project Path="DrumSet/DrumSet.csproj" Id="ee86452a-c491-4400-abee-b78b09730796" />
+  <Project Path="MixedUpList/MixedUpList.csproj" Id="d438ef55-ae06-424c-9c26-60da208721e6" />
   <Project Path="MoreExercisesLists/MoreExercisesLists.csproj" />
+  <Project Path="Take.SkipRope/Take.SkipRope.csproj" Id="332a7310-8d21-4583-9f46-1036e7ae9d26" />
 </Solution>
